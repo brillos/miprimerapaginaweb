@@ -1,8 +1,7 @@
 # Welcome to your Jupyter Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
+hola mundo, he ingresado creado mi primer libro en jupyter book.
+alejandra
 :::{note}
 Here is a note!
 :::
